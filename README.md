@@ -14,7 +14,7 @@ Thanks for your attention. In this repo, we provide the codes for the paper [[Bi
 To install all the dependencies in prerequisites
 
 ## Prepare Data
-+ Obtain [pretrained_weight.pth](https://drive.google.com/file/d/1ROT4InmAEKUisfNbMHwWpWb0nvlDhoSe/view?usp=sharing), [live1_model.pth](https://drive.google.com/file/d/1ggxGi2uvmL3n0BtYLC-HCrWbhna2TkFQ/view?usp=sharing), and [live2_model.pth](https://drive.google.com/file/d/19WJHBkogveax0b3IgpWeRco5xXgKQvFl/view?usp=sharing)
++ Obtain [pretrained_weight.pth](https://drive.google.com/file/d/1xsRaJOPbLVG58Fco7tCk92v0NBngCUhP/view?usp=sharing), [live1_model.pth](https://drive.google.com/file/d/1fZ3cXUW0ueTzecSp5eqJm_22UJWzKAmV/view?usp=sharing), and [live2_model.pth](https://drive.google.com/file/d/1cgWsmUclN54rvwAHyNwriqqrHouyStg4/view?usp=sharing)
 + Download [database](https://drive.google.com/drive/folders/1LqQFIms_46s7uybos83-5EgMAH2r6OCy?usp=sharing)
 
 ## Training
