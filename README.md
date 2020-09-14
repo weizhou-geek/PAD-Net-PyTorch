@@ -15,7 +15,7 @@ To install all the dependencies in prerequisites
 
 ## Prepare Data
 + Obtain [pretrained_weight.pth](https://drive.google.com/file/d/1xsRaJOPbLVG58Fco7tCk92v0NBngCUhP/view?usp=sharing), [live1_model.pth](https://drive.google.com/file/d/1fZ3cXUW0ueTzecSp5eqJm_22UJWzKAmV/view?usp=sharing), and [live2_model.pth](https://drive.google.com/file/d/1cgWsmUclN54rvwAHyNwriqqrHouyStg4/view?usp=sharing)
-+ Download [database](https://drive.google.com/drive/folders/1LqQFIms_46s7uybos83-5EgMAH2r6OCy?usp=sharing)
++ Download [database](https://drive.google.com/drive/folders/1QkhhfFlaNu6v0jhumtgxQFD3TcVECA3S?usp=sharing)
 
 ## Training
 ```
