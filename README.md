@@ -19,7 +19,7 @@ To install all the dependencies in prerequisites
 
 ## Training
 ```
-python main_live1.py --save model_live1 --total_epochs 300 --lr 1e-4 --batch_size 16 --log_interval 5 --resume pretrained_weight.pth
+python main_live2.py --save model_live1 --total_epochs 300 --lr 1e-4 --batch_size 16 --log_interval 5 --resume pretrained_weight.pth
 ```
 
 ## Testing
