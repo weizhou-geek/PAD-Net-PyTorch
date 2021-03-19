@@ -31,11 +31,14 @@ python main_live2.py --skip_training --resume live2_model.pth
 You may cite it in your paper. Thanks a lot.
 
 ```
-@article{xu2019predictive,
-  title={Predictive Auto-Encoding Network for Blind Stereoscopic Image Quality Assessment},
-  author={Xu, Jiahua and Zhou, Wei and Chen, Zhibo and Ling, Suiyi and Callet, Patrick Le},
-  journal={arXiv preprint arXiv:1909.01738},
-  year={2019}
+@article{xu2020binocular,
+  title={Binocular Rivalry Oriented Predictive Autoencoding Network for Blind Stereoscopic Image Quality Measurement},
+  author={Xu, Jiahua and Zhou, Wei and Chen, Zhibo and Ling, Suiyi and Le Callet, Patrick},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--13},
+  year={2020},
+  publisher={IEEE}
 }
 ```
 
